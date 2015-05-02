@@ -14,7 +14,7 @@ Bangla typing options for wordpress without using any 3rd party tool or keyboard
 
 Type bangla without using any 3rd party tool or keyboard in your back-end (post, widget) & your visitors (front-end).
 Default keyboard layout is Unijoy, you can also switch Avro & English.
-Bangla keyboard option will get for input["text"] & textarea.
+Bangla keyboard option will get for input["text"],input["search"]  & textarea.
 
 == Installation ==
 
