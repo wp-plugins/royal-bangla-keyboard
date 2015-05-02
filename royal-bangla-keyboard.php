@@ -3,7 +3,7 @@
 /*
 Plugin Name: Royal Bangla Keyboard
 Description: Bangla typing options for wordpress without using any 3rd party tool or keyboard. This plugin will let you (back-end) & your visitors type in Bangla (Unijoy & Avro)
-Plugin URI: http://wordpress.org/plugins/royal-bangla-keyboard
+Plugin URI: https://wordpress.org/plugins/royal-bangla-keyboard/
 Author: SM Mehdi Akram
 Author URI: http://www.royaltechbd.com
 Version: 1.1
