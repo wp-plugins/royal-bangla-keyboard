@@ -32,9 +32,12 @@ You can ask any question here.
 
 
 == Screenshots ==
-1. Font-End
-2. Post
-3. Widget
+1. Font-End (Search)
+2. Font-End (Comment)
+3. Back-End (Post Title)
+4. Back-End (Post Body)
+4. Back-End (Widget)
+
 
 == Changelog ==
 
