@@ -33,7 +33,7 @@ jQuery.noConflict();
 
 	$.extend( $.ime.languages, {
 		'bn': {
-			autonym: 'Chnage Keyboard',
+			autonym: 'Change Keyboard',
 			inputmethods: ['bn-bijoy','bn-avro','bn-english' ]
 		}
 	} );
